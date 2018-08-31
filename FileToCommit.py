@@ -1,3 +1,3 @@
 x = 3
 print(x)
-print("Meme witherto")
+print("Meme team")
